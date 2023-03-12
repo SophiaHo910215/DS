@@ -6,16 +6,12 @@
 >+ 學號：40971113H
 
 ## 作業繳交區
-+ HW1
-+ HW2
-+ HW3
-+ HW4
-+ HW5
-
-## 作業參考連結區
-+ (https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-71f55bccb693)
-+
-+
-+
++ HW1 ()
++ HW2 ()
++ HW3 ()
++ HW4 ()
++ HW5 ()
 
 ## 課堂筆記區
+
+## 專題連結區
