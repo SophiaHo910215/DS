@@ -12,4 +12,10 @@
 + HW4
 + HW5
 
+## 作業參考連結區
++ (https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-71f55bccb693)
++
++
++
+
 ## 課堂筆記區
