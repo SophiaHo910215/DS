@@ -5,8 +5,26 @@
 >+ 系級：科技113
 >+ 學號：40971113H
 
+## 課堂PPT
++ [Week1]()
++ Week2
++ [Week3]()
++ [Week4]()
++ Week5 ()
++ Week6 ()
++ Week7 ()
++ Week8 ()
++ Week9 ()
++ Week10 ()
++ Week11 ()
++ Week12 ()
++ Week13 ()
++ Week14 ()
++ Week15 ()
++ Week16 ()
+
 ## 作業繳交區
-+ HW1 (https://www.youtube.com/watch?v=1BFcbGm7mFs)
++ [HW1](https://www.youtube.com/watch?v=1BFcbGm7mFs)
 + HW2 ()
 + HW3 ()
 + HW4 ()
