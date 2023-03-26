@@ -25,7 +25,7 @@
 
 ## 作業繳交區
 + [HW1](https://www.youtube.com/watch?v=1BFcbGm7mFs)
-+ HW2 ()
++ [HW2](https://www.youtube.com/watch?v=CSCQ860gCps)
 + HW3 ()
 + HW4 ()
 + HW5 ()
