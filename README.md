@@ -13,7 +13,7 @@
 + [Week5]()
 + [Week6](https://docs.google.com/presentation/d/e/2PACX-1vSPyKSjbmp0FXR9AWx2AGONP6ShanxnrvVzX9ZFgpNQ170r6YDe4mVe00qnvBxKM5UXojYyfo32AGde/pub?start=false&loop=false&delayms=3000&slide=id.p)
 + [Week7]()
-+ [Week8]()
++ [Week8](https://docs.google.com/presentation/d/e/2PACX-1vQOji8H1afdQezbT6yv4Rv6A8M4ecAOfpufImQubaWThP7n_HudGi-slkeaMyJ4vvhPAyJnXkJB1Ry_/pub?start=false&loop=false&delayms=3000&slide=id.p)
 + [Week9]()
 + [Week10]()
 + [Week11]()
