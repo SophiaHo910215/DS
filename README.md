@@ -12,7 +12,7 @@
 + [Week4](https://docs.google.com/presentation/d/e/2PACX-1vSqNXr_J_rQ6m03T73WeCg7IVhrr2pYyNg_6CJU32lTYSi1_8I5AjCX3z_Gdx5VkiCwxCKZnEZ6jhEy/pub?start=false&loop=false&delayms=3000&slide=id.p)
 + [Week5]()
 + [Week6](https://docs.google.com/presentation/d/e/2PACX-1vSPyKSjbmp0FXR9AWx2AGONP6ShanxnrvVzX9ZFgpNQ170r6YDe4mVe00qnvBxKM5UXojYyfo32AGde/pub?start=false&loop=false&delayms=3000&slide=id.p)
-+ [Week7]()
++ Week7
 + [Week8](https://docs.google.com/presentation/d/e/2PACX-1vQOji8H1afdQezbT6yv4Rv6A8M4ecAOfpufImQubaWThP7n_HudGi-slkeaMyJ4vvhPAyJnXkJB1Ry_/pub?start=false&loop=false&delayms=3000&slide=id.p)
 + [Week9]()
 + [Week10]()
@@ -26,7 +26,7 @@
 ## 作業繳交區
 + [HW1](https://www.youtube.com/watch?v=1BFcbGm7mFs)
 + [HW2](https://www.youtube.com/watch?v=CSCQ860gCps)
-+ HW3 ()
++ [HW3](https://www.youtube.com/watch?v=9V1N0u3AdC4)
 + HW4 ()
 + HW5 ()
 
