@@ -7,12 +7,9 @@
 
 ## 課堂PPT
 + [Week1](https://docs.google.com/presentation/d/e/2PACX-1vSoZaHMPw2fKtXOAC3GyKJgpRlZn2a_adjEIOmmTTKR5vBXZlzoZ0i2y8c2yZLYgRImehD1HIHJLaV6/pub?start=false&loop=false&delayms=3000&slide=id.p)
-+ Week2
 + [Week3](https://docs.google.com/presentation/d/e/2PACX-1vT7p0-PcgEIj2Ac7NuCdqHGNXNnwadoAy7CWhhNTJWm5OzUdQEekxSEb9_ZTpo2ubNgfETSUYX_tuC5/pub?start=false&loop=false&delayms=3000&slide=id.p)
 + [Week4](https://docs.google.com/presentation/d/e/2PACX-1vSqNXr_J_rQ6m03T73WeCg7IVhrr2pYyNg_6CJU32lTYSi1_8I5AjCX3z_Gdx5VkiCwxCKZnEZ6jhEy/pub?start=false&loop=false&delayms=3000&slide=id.p)
-+ [Week5]
 + [Week6](https://docs.google.com/presentation/d/e/2PACX-1vSPyKSjbmp0FXR9AWx2AGONP6ShanxnrvVzX9ZFgpNQ170r6YDe4mVe00qnvBxKM5UXojYyfo32AGde/pub?start=false&loop=false&delayms=3000&slide=id.p)
-+ Week7
 + [Week8](https://docs.google.com/presentation/d/e/2PACX-1vQOji8H1afdQezbT6yv4Rv6A8M4ecAOfpufImQubaWThP7n_HudGi-slkeaMyJ4vvhPAyJnXkJB1Ry_/pub?start=false&loop=false&delayms=3000&slide=id.p)
 + [Week9](https://docs.google.com/presentation/d/e/2PACX-1vQVu4ZiJF9x3o18xjCDRkvqIXsE2hA1XsE0DY5NnOqysr5edVx8o5elzHctaZ2VriHCCLmjTBMMNi87/pub?start=false&loop=false&delayms=3000&slide=id.p)
 + [Week10](https://docs.google.com/presentation/d/e/2PACX-1vRlcrJz58mNIV8jFGTxhR19BukTk6FEfUUeiei6wbRnNOpZk8VfFUmbAp2uHMN-j4HUPSf6pAuCrYgB/pub?start=false&loop=false&delayms=3000&slide=id.p)
